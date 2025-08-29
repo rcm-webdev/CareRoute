@@ -1,0 +1,2 @@
+# CareRoute
+Imagine you are a patient with a sore throat. Instead of wondering whether to go to urgent care, schedule telehealth, or rest at home, CareRoute guides you in 3 clicks. It’s mobile-first, ADA-compliant, and designed to help people access care quickly and easily.
